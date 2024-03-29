@@ -1,8 +1,8 @@
 {
-  "name": "CYBER-PANDA-MD",
+  "name": "XHRISS-MD",
   "description": "whatsapp md bot build with nodejs",
   "repository": "https://github.com/CYBER-x-SACHIYA-SL-MD-BOT/CYBER-PANDA-MD.V.0.4",
-  "logo": "https://imgur.com/a/uADuUzv",
+  "logo": "https://telegra.ph/file/0ee16e4ed9fc53a4b7c94.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
